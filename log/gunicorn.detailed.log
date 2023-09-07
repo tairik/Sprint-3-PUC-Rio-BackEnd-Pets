@@ -1,0 +1,14 @@
+[2023-09-05 22:58:09,746] INFO _log() L224  127.0.0.1 - - [05/Sep/2023 22:58:09] "GET /dogs HTTP/1.1" 200 - - call_trace=/Users/tairik/PycharmProjects/mvp-tairik/venv/lib/python3.9/site-packages/werkzeug/_internal.py L224 
+[2023-09-05 22:58:11,433] INFO _log() L224  127.0.0.1 - - [05/Sep/2023 22:58:11] "GET /dogs HTTP/1.1" 200 - - call_trace=/Users/tairik/PycharmProjects/mvp-tairik/venv/lib/python3.9/site-packages/werkzeug/_internal.py L224 
+[2023-09-05 22:58:13,564] INFO _log() L224  127.0.0.1 - - [05/Sep/2023 22:58:13] "GET /dogs HTTP/1.1" 200 - - call_trace=/Users/tairik/PycharmProjects/mvp-tairik/venv/lib/python3.9/site-packages/werkzeug/_internal.py L224 
+[2023-09-05 22:58:15,122] INFO _log() L224  127.0.0.1 - - [05/Sep/2023 22:58:15] "GET /dogs HTTP/1.1" 200 - - call_trace=/Users/tairik/PycharmProjects/mvp-tairik/venv/lib/python3.9/site-packages/werkzeug/_internal.py L224 
+[2023-09-05 23:00:23,977] INFO _log() L224  127.0.0.1 - - [05/Sep/2023 23:00:23] "GET /dogs HTTP/1.1" 200 - - call_trace=/Users/tairik/PycharmProjects/mvp-tairik/venv/lib/python3.9/site-packages/werkzeug/_internal.py L224 
+[2023-09-05 23:00:24,826] INFO _log() L224  127.0.0.1 - - [05/Sep/2023 23:00:24] "GET /dogs HTTP/1.1" 200 - - call_trace=/Users/tairik/PycharmProjects/mvp-tairik/venv/lib/python3.9/site-packages/werkzeug/_internal.py L224 
+[2023-09-06 22:30:17,799] INFO _log() L224   * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.102:5000 (Press CTRL+C to quit) - call_trace=/Users/tairik/PycharmProjects/mvp-tairik/venv/lib/python3.9/site-packages/werkzeug/_internal.py L224 
+[2023-09-06 22:30:17,801] INFO _log() L224   * Restarting with stat - call_trace=/Users/tairik/PycharmProjects/mvp-tairik/venv/lib/python3.9/site-packages/werkzeug/_internal.py L224 
+[2023-09-06 22:30:21,190] INFO _log() L224  127.0.0.1 - - [06/Sep/2023 22:30:21] "GET /dogs HTTP/1.1" 200 - - call_trace=/Users/tairik/PycharmProjects/mvp-tairik/venv/lib/python3.9/site-packages/werkzeug/_internal.py L224 
+[2023-09-06 22:30:30,907] INFO _log() L224  127.0.0.1 - - [06/Sep/2023 22:30:30] "OPTIONS /dog HTTP/1.1" 200 - - call_trace=/Users/tairik/PycharmProjects/mvp-tairik/venv/lib/python3.9/site-packages/werkzeug/_internal.py L224 
+[2023-09-06 22:30:30,924] INFO _log() L224  127.0.0.1 - - [06/Sep/2023 22:30:30] "POST /dog HTTP/1.1" 200 - - call_trace=/Users/tairik/PycharmProjects/mvp-tairik/venv/lib/python3.9/site-packages/werkzeug/_internal.py L224 
