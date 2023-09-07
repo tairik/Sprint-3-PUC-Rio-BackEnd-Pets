@@ -36,7 +36,7 @@ Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal
 
 docker build --tag api-pet-docker . 
 
-docker run -d --name api-pet-docker -p 5000:5000 api-pet-docker
+docker run -d --name api-pet-docker -p 6000:6000 api-pet-docker
 
 ## Execução local
 
