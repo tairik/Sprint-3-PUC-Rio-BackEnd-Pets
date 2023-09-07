@@ -36,7 +36,7 @@ Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal
 
 docker build --tag api-pet-docker . 
 
-docker run -d --name api-pet-docker -p 6000:6000 api-pet-docker
+docker run -d --name api-pet-docker -p 5000:5000 api-pet-docker
 
 ## Execução local
 
@@ -51,14 +51,14 @@ Este comando instala as dependências/bibliotecas, descritas no arquivo `require
 Para executar a API basta lançar o seguinte comando no terminal:
 
 ```
-(env)$ flask run --host 0.0.0.0 --port 5000
+(env)$ flask run --host 0.0.0.0 --port 4000
 ```
 
 Em modo de desenvolvimento é recomendado executar utilizando o parâmetro reload, que reiniciará o servidor
 automaticamente após uma mudança no código fonte. 
 
 ```
-(env)$ flask run --host 0.0.0.0 --port 5000 --reload
+(env)$ flask run --host 0.0.0.0 --port 4000 --reload
 ```
 
 Abra o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para verificar o status da API em execução.
